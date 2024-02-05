@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="iCJ4u9L5eciBMbHdnOm3">
+        <mxGraphModel dx="487" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="130" y="220" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-2" value="Nam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="170" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="220" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-4" value="Ngoc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="170" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="220" y="279" as="sourcePoint"/>
+                        <mxPoint x="440" y="279" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-6" value="Hello (_id: 90)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="280" width="100" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-7" value="_id: 80,&lt;br&gt;participants: [1, 2],&lt;br&gt;message: [90, 91]" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="82.5" y="440" width="145" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-8" value="Conversation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="390" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-9" value="_id: 90,&lt;br&gt;senderId: 1,&lt;br&gt;receiverId: 2,&lt;br&gt;message: &quot;Hello&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="402.5" y="450" width="145" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-10" value="Message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="390" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-11" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="228" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="m2PwB5pcgz6jKdE_NNdA-12" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="228" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Collection Datebase" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="350" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="440" y="240" as="sourcePoint"/>
+                        <mxPoint x="220" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Hi, I'm Jane (_id: 91)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="265" y="210" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="_id: 91,&lt;br&gt;senderId: 2,&lt;br&gt;receiverId: 1,&lt;br&gt;message: &quot;Hi, I'm Jane&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="590" y="450" width="145" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
